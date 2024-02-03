@@ -1,0 +1,6 @@
+sabse phle pata kro ki mouse rectangle par aaya and move hua ya nahi ✅
+
+calculate kro ki center se left pe h ya right pe
+
+calculate karo ki hum center se kitna left par h, 
+jitna left utni hi red ki intensity increase hogi
